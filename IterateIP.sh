@@ -1,5 +1,5 @@
-### School Network is 10.10.0.0 through 10.10.6.255
-### Ping each system to see which are up
+### Use this at your own risk!!!
+### Pings each system to see which are up in your network
 
 #!/bin/sh
 for third in {0..6}
