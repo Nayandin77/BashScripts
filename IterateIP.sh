@@ -1,5 +1,7 @@
 ### Use this at your own risk!!!
 ### Pings each system to see which are up in your network
+### Uses Regular Expressions to check around the different IP, 
+### Example: ping 10.10.0.1 , (next ping) -> ping 10.10.0.2, etc
 
 #!/bin/sh
 for third in {0..6}
